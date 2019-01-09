@@ -1,0 +1,5 @@
+// for loops
+
+for (var i = -24; i <= 0; i-1) {
+    console.log(i)
+}
